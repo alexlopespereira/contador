@@ -1,5 +1,4 @@
-# Política de Privacidade para Alexa Skills
-
+# Política de Privacidade para Skills da Alexa 
  Esta política de privacidade descreve como o Contador ("nós" ou "nós") protege sua privacidade ("você", "o usuário") e seus dados.  Antes de usar qualquer uma de nossas Alexa Skills ("nossas habilidades"), leia esta política e nossos Termos de uso das Alexa Skills, bem como os Termos de uso da Alexa e as Políticas de privacidade da Amazon Digital Services LLC (com suas afiliadas, "  Amazonas").
 
  Com relação à Amazon, "Alexa" significa o Serviço de Voz Alexa, que inclui serviços de terceiros (como nossas habilidades) e outros Softwares relacionados.
