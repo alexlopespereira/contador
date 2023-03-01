@@ -1,24 +1,23 @@
-# Privacy Policy for Alexa Skills
+# Política de Privacidade para Alexa Skills
 
-This privacy policy describes how Contador ("us" or "we") protects your ("you", "the user") privacy and your data. Before using any of our Alexa Skills ("our skills"), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, "Amazon").
+ Esta política de privacidade descreve como o Contador ("nós" ou "nós") protege sua privacidade ("você", "o usuário") e seus dados.  Antes de usar qualquer uma de nossas Alexa Skills ("nossas habilidades"), leia esta política e nossos Termos de uso das Alexa Skills, bem como os Termos de uso da Alexa e as Políticas de privacidade da Amazon Digital Services LLC (com suas afiliadas, "  Amazonas").
 
-Regarding Amazon, "Alexa" means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
+ Com relação à Amazon, "Alexa" significa o Serviço de Voz Alexa, que inclui serviços de terceiros (como nossas habilidades) e outros Softwares relacionados.
 
-If you use one of our skills you fully agree to this privacy policy.
+ Se você usar uma de nossas habilidades, você concorda totalmente com esta política de privacidade.
 
-## General
+ ## Em geral
 
-When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer.
+ Quando você usa nossas habilidades, precisa falar com Alexa.  Essa entrada de voz é enviada para a Amazon e para nós, onde a usamos para entender o que nossa habilidade deve fazer por você.  Isso é absolutamente necessário para que nosso serviço lhe dê uma resposta adequada.
 
-## Data
+ ## Dados
 
-We never collect or share personal data with our skills.
+ Nunca coletamos ou compartilhamos dados pessoais com nossas habilidades.
 
-To improve our services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
+ Para melhorar nossos serviços, analisamos automaticamente a frequência com que os enunciados são falados e outras análises.  Isso é feito automaticamente pela Amazon no Amazon Developer Portal.
 
-For some of our skills it is necessary to save data for you in our databases. This data is only connected to your Alexa-UserId but never to your name or any other personal information. In the case of our "Contador" skill we save the counter value. Otherwise we could not provide you this service.
+ Para algumas de nossas habilidades, é necessário salvar dados para você em nossos bancos de dados.  Esses dados são conectados apenas ao seu Alexa-UserId, mas nunca ao seu nome ou qualquer outra informação pessoal.  No caso de nossa habilidade "Contador" salvamos o valor do contador.  Caso contrário, não poderíamos fornecer-lhe este serviço.
 
-## Changes
+ ## Mudanças
 
-Our skills or parts of it may change or be updated at any time. Further, this Privacy Policy might change. You can find a link to this policy on the description page of the skill in the Alexa App or in the Alexa Store. Your continued use of our skill after changes of the Privacy Policy or the skill itself will be seen as your acceptance of both.
-
+ Nossas habilidades ou partes delas podem mudar ou ser atualizadas a qualquer momento.  Além disso, esta Política de Privacidade pode mudar.  Você pode encontrar um link para esta política na página de descrição da habilidade no Alexa App ou na Alexa Store.  Seu uso continuado de nossa habilidade após alterações na Política de Privacidade ou na própria habilidade será visto como sua aceitação de ambos.
